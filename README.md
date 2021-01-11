@@ -15,3 +15,7 @@ As stated above, the main purpose is to learn this shit.
 Sample website with plenty of files for demos.
 
 ## How to contribute
+
+## COPYRIGHT 
+
+copyright 2021 git.training

@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Boris Tadirov 	btadirov16@gmail.com
 
 # THANKS
 
